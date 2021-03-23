@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MytoolsApp</string>
+    <string name="wizard_title_holder">Welcome to MytoolsApp</string>
+    <string name="wizard_description_holder">You are welcome to MytoolsApp. Looks like you are new here. A little intro please</string>
+    <string name="hello_xtools">Hello MyToolsApp!</string>
+    <string name="long_lorem_ipsum">description here</string>
+    <string name="name">Name</string>
+    <string name="index_number">Index Number</string>
+</resources>

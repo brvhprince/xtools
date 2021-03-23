@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="xtools">
+        <item>@array/drill</item>
+        <item>@array/pipes</item>
+        <item>@array/blowout</item>
+        <item>@array/fire</item>
+        <item>@array/drillbits</item>
+        <item>@array/gases</item>
+        <item>@array/cranes</item>
+        <item>@array/degassers</item>
+        <item>@array/pumps</item>
+    </array>
+    <array name="drill">
+        <item>Drill Rig</item>
+        <item><![CDATA[
+        <p>Drill rig is a machine that makes holes in the earth surface.</p>
+        <p>In the field of petroleum engineering, the drill is used to make holes into the crust for the establishment of wells for fuel extraction.</p>
+        ]]></item>
+        <item>@drawable/drillrig</item>
+    </array>
+    <array name="pipes">
+        <item>Drilling Pipes</item>
+        <item><![CDATA[
+<p>Drilling pipes are used convey fuel extracts from the well unto the surface for processing.</p>
+<p>They are long pipes that are inserted downwards to the point of accumulation of the petroleum or fuel in other to pull up the petroleum with the aid of connected generators.</p>
+        ]]></item>
+        <item>@drawable/pipes</item>
+    </array>
+    <array name="blowout">
+        <item>Blowout Preventer</item>
+        <item><![CDATA[
+<p>The occurrence of blowout of petroleum at oil sites are prevented by the equipment called the blowout preventer. </p>
+<p>It has a very tough cover which stops the oil in an attempt to splash out.</p>
+]]> </item>
+        <item>@drawable/blowout</item>
+    </array>
+    <array name="fire">
+        <item>Fire Extinguisher</item>
+        <item><![CDATA[
+<p>Fire extinguisher quenches the fire and also reduce the rate of fire burning.</p>
+<p>The chemicals contained in it does not supports burning hence can off fire when applied to it.</p>
+        ]]></item>
+        <item>@drawable/fire</item>
+    </array>
+    <array name="drillbits">
+        <item>Drill Bits</item>
+        <item>
+            <![CDATA[
+<p>Drill bits are located at the end of drill rigs which breaks down the  rocks that approaches the drill rig in the process of drilling.</p>
+            <p>The drill bits are shaped in such a way that they are curved and pointed like edges that can easily break and crush rocks into smaller forms.</p>
+            ]]>
+        </item>
+        <item>@drawable/drillbits</item>
+    </array>
+    <array name="gases">
+        <item>Gas Separator</item>
+        <item>
+           <![CDATA[
+ <p>As the name implies, gases that have been obtained in the form of a mixture are passed through this equipment to be separated into its individual states or forms.</p>
+            <p>This equipment works based on certain principles, for example they separates at appoint base on their densities and other gaseous factors that can be used to separate gases.</p>
+           ]]>
+        </item>
+        <item>@drawable/gases</item>
+    </array>
+
+    <array name="cranes">
+        <item>Cranes</item>
+        <item>
+          <![CDATA[
+            <p>Cranes are structures that are extended high into the air with supports that are either stationary on the ground or on mobile devices like strong vehicles.</p>
+            <p>They are used to load tanks on vehicles for transport purposes and also used to draw extracted products from the well onto the surface.</p>
+            <p>They are platforms where clear view from above the ground can be taken or inspection of the field can be made.</p>
+            ]]>
+        </item>
+        <item>@drawable/cranes</item>
+    </array>
+
+    <array name="degassers">
+        <item>Degassers</item>
+        <item>
+            <![CDATA[
+            <p>Degassers are used to get rid of the hydrogen sulphide, methane, carbon dioxide, and other gases, reducing the risk of gas explosions there by increasing safety at the oil field.</p>
+            ]]>
+        </item>
+        <item>@drawable/degassers</item>
+    </array>
+    <array name="pumps">
+        <item>Sand Pumps</item>
+        <item>
+            <![CDATA[
+            <p>The sand pumps are equipment usually installed in  certain wells and compartments to remove deposits from that site.</p>
+            <p>Fuel tanks that are filled with sand are also emptied with the help of the sand pump.</p>
+            ]]>
+        </item>
+        <item>@drawable/sandpumps</item>
+    </array>
+
+</resources>
